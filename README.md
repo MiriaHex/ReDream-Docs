@@ -1,16 +1,20 @@
 ---
-icon: circle-location-arrow
 description: 山重水复疑无路，柳暗花明又一村
+icon: circle-location-arrow
 ---
 
 # 欢迎!
 
-{% hint style="success" %}
-Wiki最近活跃于 | **2024年 12月8日**
+{% hint style="danger" %}
+Wiki最近活跃于 | 2024年 12月8日&#x20;
 
-Wiki当前版本     | **New Starter**
+Wiki当前版本 | The Final Update&#x20;
 
-Wiki当前状态     | **Active**
+Wiki当前状态 | Archived(EOL)
+
+&#x20;此文档的工作对象已结束，将来不再会有新内容更新&#x20;
+
+此项目已终止，且在很长一段时间内不再有其它项目计划，换句话说，**此群组项目已停止维护**
 {% endhint %}
 
 {% hint style="warning" %}
